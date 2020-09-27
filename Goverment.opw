@@ -1,0 +1,22 @@
+[RESOURCES]
+Indirme Görevlisi
+Ayýklama Görevlisi
+[VARIABLES]
+Ayiklama Ýþlemi.NumberOut
+Decide 3.NumberOut False
+Decide 2.NumberOut False
+Ayiklama Ýþlemi.NumberIn
+Elektronik Alet Parcalama.NumberIn
+Elektronik Alet Parcalama.NumberOut
+Dispose 2.NumberOut
+Tehlikeli Atik Indirme.NumberOut
+Tehlikeli Atik Indirme.NumberIn
+Tehlikesiz Atik Indirme.NumberIn
+Atik Araclarinin Gelisi.NumberOut
+Tehlikesiz Atik Indirme.NumberOut
+3 Atik.NumberOut Orig
+3 Atik.NumberOut Dup
+2 Atik.NumberOut Dup
+2 Atik.NumberOut Orig
+Decide 3.NumberOut True
+Decide 2.NumberOut True

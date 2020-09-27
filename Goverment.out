@@ -1,0 +1,732 @@
+
+                                      ARENA Simulation Results
+                                      lenovo - License: STUDENT
+
+                                  Summary for Replication 1 of 12
+
+Project: Unnamed Project                                             Run execution date : 9/25/2020
+Analyst: lenovo                                                      Model revision date: 9/25/2020
+
+Replication ended at time      : 2100.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Atik Dökme Araci.VATime                     4.2398     .25526     1.5372     21.403        728    
+Atik Dökme Araci.NVATime                    .00000     .00000     .00000     .00000        728    
+Atik Dökme Araci.WaitTime                   25.501     (Corr)     .00000     102.72        728    
+Atik Dökme Araci.TranTime                   .00000     .00000     .00000     .00000        728    
+Atik Dökme Araci.OtherTime                  .00000     .00000     .00000     .00000        728    
+Atik Dökme Araci.TotalTime                  29.741     (Corr)     1.6758     117.47        728    
+Tehlikeli Atik Indirme.Queue.WaitingTime    4.4491     .81364     .00000     20.420        371    
+Elektronik Alet Parcalama.Queue.WaitingTim  18.844     (Insuf)    .00000     46.764         64    
+Tehlikesiz Atik Indirme.Queue.WaitingTime   4.6151     1.0461     .00000     20.352        365    
+Ayiklama Ýþlemi.Queue.WaitingTime           19.335     (Corr)     .00000     58.873        730    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Atik Dökme Araci.WIP                        10.406     (Corr)     .00000     31.000     9.0000    
+Indirme Görevlisi.NumberBusy                .61345     (Insuf)    .00000     1.0000     1.0000    
+Indirme Görevlisi.NumberScheduled           1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Indirme Görevlisi.Utilization               .61345     (Insuf)    .00000     1.0000     1.0000    
+Ayýklama Görevlisi.NumberBusy               .86375     (Insuf)    .00000     1.0000     1.0000    
+Ayýklama Görevlisi.NumberScheduled          1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Ayýklama Görevlisi.Utilization              .86375     (Insuf)    .00000     1.0000     1.0000    
+Tehlikeli Atik Indirme.Queue.NumberInQueue  .78622     .21173     .00000     8.0000     1.0000    
+Elektronik Alet Parcalama.Queue.NumberInQu  .57930     (Insuf)    .00000     4.0000     1.0000    
+Tehlikesiz Atik Indirme.Queue.NumberInQueu  .80216     .24675     .00000     8.0000     .00000    
+Ayiklama Ýþlemi.Queue.NumberInQueue         6.7615     (Corr)     .00000     24.000     5.0000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Atik Dökme Araci.NumberIn                   737.00    
+Atik Dökme Araci.NumberOut                  728.00    
+Indirme Görevlisi.NumberSeized              736.00    
+Indirme Görevlisi.ScheduledUtilization      .61345    
+Ayýklama Görevlisi.NumberSeized             794.00    
+Ayýklama Görevlisi.ScheduledUtilization     .86375    
+System.NumberOut                            728.00    
+
+Beginning replication 2 of 12
+
+                                      ARENA Simulation Results
+                                      lenovo - License: STUDENT
+
+                                  Summary for Replication 2 of 12
+
+Project: Unnamed Project                                             Run execution date : 9/25/2020
+Analyst: lenovo                                                      Model revision date: 9/25/2020
+
+Replication ended at time      : 2100.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Atik Dökme Araci.VATime                     4.3498     .30181     1.5328     20.499        780    
+Atik Dökme Araci.NVATime                    .00000     .00000     .00000     .00000        780    
+Atik Dökme Araci.WaitTime                   73.420     (Corr)     .00000     209.47        780    
+Atik Dökme Araci.TranTime                   .00000     .00000     .00000     .00000        780    
+Atik Dökme Araci.OtherTime                  .00000     .00000     .00000     .00000        780    
+Atik Dökme Araci.TotalTime                  77.770     (Corr)     2.3907     224.08        780    
+Tehlikeli Atik Indirme.Queue.WaitingTime    5.3491     (Corr)     .00000     30.675        430    
+Elektronik Alet Parcalama.Queue.WaitingTim  60.751     (Insuf)    .00000     118.43         72    
+Tehlikesiz Atik Indirme.Queue.WaitingTime   5.8227     (Corr)     .00000     31.193        383    
+Ayiklama Ýþlemi.Queue.WaitingTime           62.176     (Corr)     .00000     127.48        781    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Atik Dökme Araci.WIP                        29.412     (Corr)     .00000     58.000     33.000    
+Indirme Görevlisi.NumberBusy                .66292     (Insuf)    .00000     1.0000     1.0000    
+Indirme Görevlisi.NumberScheduled           1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Indirme Görevlisi.Utilization               .66292     (Insuf)    .00000     1.0000     1.0000    
+Ayýklama Görevlisi.NumberBusy               .97836     (Insuf)    .00000     1.0000     1.0000    
+Ayýklama Görevlisi.NumberScheduled          1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Ayýklama Görevlisi.Utilization              .97836     (Insuf)    .00000     1.0000     1.0000    
+Tehlikeli Atik Indirme.Queue.NumberInQueue  1.0952     (Corr)     .00000     10.000     .00000    
+Elektronik Alet Parcalama.Queue.NumberInQu  2.0829     (Insuf)    .00000     7.0000     .00000    
+Tehlikesiz Atik Indirme.Queue.NumberInQueu  1.0619     (Corr)     .00000     10.000     .00000    
+Ayiklama Ýþlemi.Queue.NumberInQueue         23.530     (Corr)     .00000     53.000     31.000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Atik Dökme Araci.NumberIn                   813.00    
+Atik Dökme Araci.NumberOut                  780.00    
+Indirme Görevlisi.NumberSeized              813.00    
+Indirme Görevlisi.ScheduledUtilization      .66292    
+Ayýklama Görevlisi.NumberSeized             853.00    
+Ayýklama Görevlisi.ScheduledUtilization     .97836    
+System.NumberOut                            780.00    
+
+Beginning replication 3 of 12
+
+                                      ARENA Simulation Results
+                                      lenovo - License: STUDENT
+
+                                  Summary for Replication 3 of 12
+
+Project: Unnamed Project                                             Run execution date : 9/25/2020
+Analyst: lenovo                                                      Model revision date: 9/25/2020
+
+Replication ended at time      : 2100.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Atik Dökme Araci.VATime                     4.5194     (Corr)     1.5850     20.464        750    
+Atik Dökme Araci.NVATime                    .00000     .00000     .00000     .00000        750    
+Atik Dökme Araci.WaitTime                   74.577     (Corr)     .00000     191.35        750    
+Atik Dökme Araci.TranTime                   .00000     .00000     .00000     .00000        750    
+Atik Dökme Araci.OtherTime                  .00000     .00000     .00000     .00000        750    
+Atik Dökme Araci.TotalTime                  79.097     (Corr)     2.5240     208.79        750    
+Tehlikeli Atik Indirme.Queue.WaitingTime    4.7713     1.0670     .00000     20.536        395    
+Elektronik Alet Parcalama.Queue.WaitingTim  59.575     (Insuf)    .00000     102.86         81    
+Tehlikesiz Atik Indirme.Queue.WaitingTime   5.0773     (Corr)     .00000     30.024        381    
+Ayiklama Ýþlemi.Queue.WaitingTime           63.116     (Corr)     .00000     112.58        754    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Atik Dökme Araci.WIP                        28.715     (Corr)     .00000     48.000     26.000    
+Indirme Görevlisi.NumberBusy                .63725     (Insuf)    .00000     1.0000     .00000    
+Indirme Görevlisi.NumberScheduled           1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Indirme Görevlisi.Utilization               .63725     (Insuf)    .00000     1.0000     .00000    
+Ayýklama Görevlisi.NumberBusy               .99895     (Insuf)    .00000     1.0000     1.0000    
+Ayýklama Görevlisi.NumberScheduled          1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Ayýklama Görevlisi.Utilization              .99895     (Insuf)    .00000     1.0000     1.0000    
+Tehlikeli Atik Indirme.Queue.NumberInQueue  .89746     .26451     .00000     10.000     .00000    
+Elektronik Alet Parcalama.Queue.NumberInQu  2.3203     (Insuf)    .00000     7.0000     3.0000    
+Tehlikesiz Atik Indirme.Queue.NumberInQueu  .92117     (Corr)     .00000     11.000     .00000    
+Ayiklama Ýþlemi.Queue.NumberInQueue         22.940     (Corr)     .00000     45.000     22.000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Atik Dökme Araci.NumberIn                   776.00    
+Atik Dökme Araci.NumberOut                  750.00    
+Indirme Görevlisi.NumberSeized              776.00    
+Indirme Görevlisi.ScheduledUtilization      .63725    
+Ayýklama Görevlisi.NumberSeized             835.00    
+Ayýklama Görevlisi.ScheduledUtilization     .99895    
+System.NumberOut                            750.00    
+
+Beginning replication 4 of 12
+
+                                      ARENA Simulation Results
+                                      lenovo - License: STUDENT
+
+                                  Summary for Replication 4 of 12
+
+Project: Unnamed Project                                             Run execution date : 9/25/2020
+Analyst: lenovo                                                      Model revision date: 9/25/2020
+
+Replication ended at time      : 2100.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Atik Dökme Araci.VATime                     4.3797     .31941     1.5277     19.589        791    
+Atik Dökme Araci.NVATime                    .00000     .00000     .00000     .00000        791    
+Atik Dökme Araci.WaitTime                   59.613     (Corr)     .00000     233.64        791    
+Atik Dökme Araci.TranTime                   .00000     .00000     .00000     .00000        791    
+Atik Dökme Araci.OtherTime                  .00000     .00000     .00000     .00000        791    
+Atik Dökme Araci.TotalTime                  63.993     (Corr)     2.5293     249.54        791    
+Tehlikeli Atik Indirme.Queue.WaitingTime    4.7421     1.0776     .00000     27.212        409    
+Elektronik Alet Parcalama.Queue.WaitingTim  45.439     (Insuf)    .00000     128.96         75    
+Tehlikesiz Atik Indirme.Queue.WaitingTime   4.2194     .92544     .00000     22.679        415    
+Ayiklama Ýþlemi.Queue.WaitingTime           50.937     (Corr)     .00000     128.54        792    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Atik Dökme Araci.WIP                        24.614     (Corr)     .00000     58.000     35.000    
+Indirme Görevlisi.NumberBusy                .67609     (Insuf)    .00000     1.0000     1.0000    
+Indirme Görevlisi.NumberScheduled           1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Indirme Görevlisi.Utilization               .67609     (Insuf)    .00000     1.0000     1.0000    
+Ayýklama Görevlisi.NumberBusy               .99599     (Insuf)    .00000     1.0000     1.0000    
+Ayýklama Görevlisi.NumberScheduled          1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Ayýklama Görevlisi.Utilization              .99599     (Insuf)    .00000     1.0000     1.0000    
+Tehlikeli Atik Indirme.Queue.NumberInQueue  .92763     .25276     .00000     9.0000     2.0000    
+Elektronik Alet Parcalama.Queue.NumberInQu  1.6228     (Insuf)    .00000     7.0000     .00000    
+Tehlikesiz Atik Indirme.Queue.NumberInQueu  .83384     .25547     .00000     8.0000     .00000    
+Ayiklama Ýþlemi.Queue.NumberInQueue         19.557     (Corr)     .00000     53.000     31.000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Atik Dökme Araci.NumberIn                   826.00    
+Atik Dökme Araci.NumberOut                  791.00    
+Indirme Görevlisi.NumberSeized              824.00    
+Indirme Görevlisi.ScheduledUtilization      .67609    
+Ayýklama Görevlisi.NumberSeized             867.00    
+Ayýklama Görevlisi.ScheduledUtilization     .99599    
+System.NumberOut                            791.00    
+
+Beginning replication 5 of 12
+
+                                      ARENA Simulation Results
+                                      lenovo - License: STUDENT
+
+                                  Summary for Replication 5 of 12
+
+Project: Unnamed Project                                             Run execution date : 9/25/2020
+Analyst: lenovo                                                      Model revision date: 9/25/2020
+
+Replication ended at time      : 2100.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Atik Dökme Araci.VATime                     4.3786     .18280     1.5939     19.969        778    
+Atik Dökme Araci.NVATime                    .00000     .00000     .00000     .00000        778    
+Atik Dökme Araci.WaitTime                   85.516     (Corr)     .00000     258.23        778    
+Atik Dökme Araci.TranTime                   .00000     .00000     .00000     .00000        778    
+Atik Dökme Araci.OtherTime                  .00000     .00000     .00000     .00000        778    
+Atik Dökme Araci.TotalTime                  89.894     (Corr)     3.9233     276.26        778    
+Tehlikeli Atik Indirme.Queue.WaitingTime    5.8747     2.1183     .00000     31.000        437    
+Elektronik Alet Parcalama.Queue.WaitingTim  70.007     (Insuf)    .00000     126.69         76    
+Tehlikesiz Atik Indirme.Queue.WaitingTime   5.8920     (Corr)     .00000     34.780        408    
+Ayiklama Ýþlemi.Queue.WaitingTime           73.345     (Corr)     .00000     138.28        786    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Atik Dökme Araci.WIP                        35.836     (Corr)     .00000     73.000     68.000    
+Indirme Görevlisi.NumberBusy                .68671     (Insuf)    .00000     1.0000     1.0000    
+Indirme Görevlisi.NumberScheduled           1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Indirme Görevlisi.Utilization               .68671     (Insuf)    .00000     1.0000     1.0000    
+Ayýklama Görevlisi.NumberBusy               .99815     (Insuf)    .00000     1.0000     1.0000    
+Ayýklama Görevlisi.NumberScheduled          1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Ayýklama Görevlisi.Utilization              .99815     (Insuf)    .00000     1.0000     1.0000    
+Tehlikeli Atik Indirme.Queue.NumberInQueue  1.2225     .45624     .00000     10.000     .00000    
+Elektronik Alet Parcalama.Queue.NumberInQu  2.6556     (Insuf)    .00000     7.0000     7.0000    
+Tehlikesiz Atik Indirme.Queue.NumberInQueu  1.1490     (Corr)     .00000     11.000     1.0000    
+Ayiklama Ýþlemi.Queue.NumberInQueue         29.124     (Corr)     .00000     60.000     58.000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Atik Dökme Araci.NumberIn                   846.00    
+Atik Dökme Araci.NumberOut                  778.00    
+Indirme Görevlisi.NumberSeized              845.00    
+Indirme Görevlisi.ScheduledUtilization      .68671    
+Ayýklama Görevlisi.NumberSeized             862.00    
+Ayýklama Görevlisi.ScheduledUtilization     .99815    
+System.NumberOut                            778.00    
+
+Beginning replication 6 of 12
+
+                                      ARENA Simulation Results
+                                      lenovo - License: STUDENT
+
+                                  Summary for Replication 6 of 12
+
+Project: Unnamed Project                                             Run execution date : 9/25/2020
+Analyst: lenovo                                                      Model revision date: 9/25/2020
+
+Replication ended at time      : 2100.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Atik Dökme Araci.VATime                     4.3346     (Corr)     1.5616     21.081        792    
+Atik Dökme Araci.NVATime                    .00000     .00000     .00000     .00000        792    
+Atik Dökme Araci.WaitTime                   189.19     (Corr)     .00000     625.88        792    
+Atik Dökme Araci.TranTime                   .00000     .00000     .00000     .00000        792    
+Atik Dökme Araci.OtherTime                  .00000     .00000     .00000     .00000        792    
+Atik Dökme Araci.TotalTime                  193.53     (Corr)     3.9466     641.89        792    
+Tehlikeli Atik Indirme.Queue.WaitingTime    7.2698     1.8175     .00000     24.345        466    
+Elektronik Alet Parcalama.Queue.WaitingTim  167.66     (Insuf)    .00000     340.58         78    
+Tehlikesiz Atik Indirme.Queue.WaitingTime   7.2539     1.7488     .00000     26.236        431    
+Ayiklama Ýþlemi.Queue.WaitingTime           167.42     (Corr)     .00000     350.03        802    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Atik Dökme Araci.WIP                        81.251     (Corr)     .00000     146.00     105.00    
+Indirme Görevlisi.NumberBusy                .73147     (Insuf)    .00000     1.0000     .00000    
+Indirme Görevlisi.NumberScheduled           1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Indirme Görevlisi.Utilization               .73147     (Insuf)    .00000     1.0000     .00000    
+Ayýklama Görevlisi.NumberBusy               .99634     (Insuf)    .00000     1.0000     1.0000    
+Ayýklama Görevlisi.NumberScheduled          1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Ayýklama Görevlisi.Utilization              .99634     (Insuf)    .00000     1.0000     1.0000    
+Tehlikeli Atik Indirme.Queue.NumberInQueue  1.6132     .46994     .00000     13.000     .00000    
+Elektronik Alet Parcalama.Queue.NumberInQu  6.8458     (Insuf)    .00000     16.000     9.0000    
+Tehlikesiz Atik Indirme.Queue.NumberInQueu  1.4887     .44827     .00000     9.0000     .00000    
+Ayiklama Ýþlemi.Queue.NumberInQueue         69.575     (Corr)     .00000     131.00     95.000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Atik Dökme Araci.NumberIn                   897.00    
+Atik Dökme Araci.NumberOut                  792.00    
+Indirme Görevlisi.NumberSeized              897.00    
+Indirme Görevlisi.ScheduledUtilization      .73147    
+Ayýklama Görevlisi.NumberSeized             880.00    
+Ayýklama Görevlisi.ScheduledUtilization     .99634    
+System.NumberOut                            792.00    
+
+Beginning replication 7 of 12
+
+                                      ARENA Simulation Results
+                                      lenovo - License: STUDENT
+
+                                  Summary for Replication 7 of 12
+
+Project: Unnamed Project                                             Run execution date : 9/25/2020
+Analyst: lenovo                                                      Model revision date: 9/25/2020
+
+Replication ended at time      : 2100.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Atik Dökme Araci.VATime                     4.5549     .27413     1.5523     20.400        744    
+Atik Dökme Araci.NVATime                    .00000     .00000     .00000     .00000        744    
+Atik Dökme Araci.WaitTime                   142.33     (Corr)     .00000     469.26        744    
+Atik Dökme Araci.TranTime                   .00000     .00000     .00000     .00000        744    
+Atik Dökme Araci.OtherTime                  .00000     .00000     .00000     .00000        744    
+Atik Dökme Araci.TotalTime                  146.88     (Corr)     2.7230     483.72        744    
+Tehlikeli Atik Indirme.Queue.WaitingTime    8.0995     2.8531     .00000     37.698        412    
+Elektronik Alet Parcalama.Queue.WaitingTim  128.03     (Insuf)    1.4546     238.23         78    
+Tehlikesiz Atik Indirme.Queue.WaitingTime   8.4184     2.4696     .00000     38.760        434    
+Ayiklama Ýþlemi.Queue.WaitingTime           121.51     (Corr)     .00000     251.11        750    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Atik Dökme Araci.WIP                        58.909     (Corr)     .00000     115.00     111.00    
+Indirme Görevlisi.NumberBusy                .72308     (Insuf)    .00000     1.0000     1.0000    
+Indirme Görevlisi.NumberScheduled           1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Indirme Görevlisi.Utilization               .72308     (Insuf)    .00000     1.0000     1.0000    
+Ayýklama Görevlisi.NumberBusy               .98852     (Insuf)    .00000     1.0000     1.0000    
+Ayýklama Görevlisi.NumberScheduled          1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Ayýklama Görevlisi.Utilization              .98852     (Insuf)    .00000     1.0000     1.0000    
+Tehlikeli Atik Indirme.Queue.NumberInQueue  1.6253     (Corr)     .00000     16.000     4.0000    
+Elektronik Alet Parcalama.Queue.NumberInQu  5.1296     (Insuf)    .00000     12.000     5.0000    
+Tehlikesiz Atik Indirme.Queue.NumberInQueu  1.7841     (Corr)     .00000     11.000     5.0000    
+Ayiklama Ýþlemi.Queue.NumberInQueue         48.658     (Corr)     .00000     96.000     95.000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Atik Dökme Araci.NumberIn                   855.00    
+Atik Dökme Araci.NumberOut                  744.00    
+Indirme Görevlisi.NumberSeized              846.00    
+Indirme Görevlisi.ScheduledUtilization      .72308    
+Ayýklama Görevlisi.NumberSeized             828.00    
+Ayýklama Görevlisi.ScheduledUtilization     .98852    
+System.NumberOut                            744.00    
+
+Beginning replication 8 of 12
+
+                                      ARENA Simulation Results
+                                      lenovo - License: STUDENT
+
+                                  Summary for Replication 8 of 12
+
+Project: Unnamed Project                                             Run execution date : 9/25/2020
+Analyst: lenovo                                                      Model revision date: 9/25/2020
+
+Replication ended at time      : 2100.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Atik Dökme Araci.VATime                     4.2686     .20397     1.5553     20.429        754    
+Atik Dökme Araci.NVATime                    .00000     .00000     .00000     .00000        754    
+Atik Dökme Araci.WaitTime                   31.213     (Corr)     .00000     170.04        754    
+Atik Dökme Araci.TranTime                   .00000     .00000     .00000     .00000        754    
+Atik Dökme Araci.OtherTime                  .00000     .00000     .00000     .00000        754    
+Atik Dökme Araci.TotalTime                  35.481     (Corr)     2.2233     184.83        754    
+Tehlikeli Atik Indirme.Queue.WaitingTime    5.5658     1.5317     .00000     27.948        376    
+Elektronik Alet Parcalama.Queue.WaitingTim  24.192     (Insuf)    .00000     97.945         62    
+Tehlikesiz Atik Indirme.Queue.WaitingTime   5.5926     1.8494     .00000     29.311        393    
+Ayiklama Ýþlemi.Queue.WaitingTime           23.701     (Corr)     .00000     110.14        758    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Atik Dökme Araci.WIP                        12.970     (Corr)     .00000     37.000     15.000    
+Indirme Görevlisi.NumberBusy                .64850     (Insuf)    .00000     1.0000     1.0000    
+Indirme Görevlisi.NumberScheduled           1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Indirme Görevlisi.Utilization               .64850     (Insuf)    .00000     1.0000     1.0000    
+Ayýklama Görevlisi.NumberBusy               .89974     (Insuf)    .00000     1.0000     1.0000    
+Ayýklama Görevlisi.NumberScheduled          1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Ayýklama Görevlisi.Utilization              .89974     (Insuf)    .00000     1.0000     1.0000    
+Tehlikeli Atik Indirme.Queue.NumberInQueue  .99655     .34262     .00000     8.0000     .00000    
+Elektronik Alet Parcalama.Queue.NumberInQu  .72864     (Insuf)    .00000     5.0000     3.0000    
+Tehlikesiz Atik Indirme.Queue.NumberInQueu  1.0466     (Corr)     .00000     9.0000     .00000    
+Ayiklama Ýþlemi.Queue.NumberInQueue         8.6504     (Corr)     .00000     31.000     10.000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Atik Dökme Araci.NumberIn                   769.00    
+Atik Dökme Araci.NumberOut                  754.00    
+Indirme Görevlisi.NumberSeized              769.00    
+Indirme Görevlisi.ScheduledUtilization      .64850    
+Ayýklama Görevlisi.NumberSeized             820.00    
+Ayýklama Görevlisi.ScheduledUtilization     .89974    
+System.NumberOut                            754.00    
+
+Beginning replication 9 of 12
+
+                                      ARENA Simulation Results
+                                      lenovo - License: STUDENT
+
+                                  Summary for Replication 9 of 12
+
+Project: Unnamed Project                                             Run execution date : 9/25/2020
+Analyst: lenovo                                                      Model revision date: 9/25/2020
+
+Replication ended at time      : 2100.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Atik Dökme Araci.VATime                     4.4806     (Corr)     1.5749     20.578        759    
+Atik Dökme Araci.NVATime                    .00000     .00000     .00000     .00000        759    
+Atik Dökme Araci.WaitTime                   67.682     (Corr)     .00000     214.43        759    
+Atik Dökme Araci.TranTime                   .00000     .00000     .00000     .00000        759    
+Atik Dökme Araci.OtherTime                  .00000     .00000     .00000     .00000        759    
+Atik Dökme Araci.TotalTime                  72.162     (Corr)     2.0215     228.33        759    
+Tehlikeli Atik Indirme.Queue.WaitingTime    7.1347     (Corr)     .00000     31.312        407    
+Elektronik Alet Parcalama.Queue.WaitingTim  50.929     (Insuf)    .00000     114.17         77    
+Tehlikesiz Atik Indirme.Queue.WaitingTime   6.7959     (Corr)     .00000     28.745        396    
+Ayiklama Ýþlemi.Queue.WaitingTime           55.745     (Corr)     .00000     123.55        765    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Atik Dökme Araci.WIP                        27.857     (Corr)     .00000     56.000     46.000    
+Indirme Görevlisi.NumberBusy                .66956     (Insuf)    .00000     1.0000     1.0000    
+Indirme Görevlisi.NumberScheduled           1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Indirme Görevlisi.Utilization               .66956     (Insuf)    .00000     1.0000     1.0000    
+Ayýklama Görevlisi.NumberBusy               .98917     (Insuf)    .00000     1.0000     1.0000    
+Ayýklama Görevlisi.NumberScheduled          1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Ayýklama Görevlisi.Utilization              .98917     (Insuf)    .00000     1.0000     1.0000    
+Tehlikeli Atik Indirme.Queue.NumberInQueue  1.3827     (Corr)     .00000     11.000     .00000    
+Elektronik Alet Parcalama.Queue.NumberInQu  1.9818     (Insuf)    .00000     7.0000     5.0000    
+Tehlikesiz Atik Indirme.Queue.NumberInQueu  1.2823     .55131     .00000     11.000     2.0000    
+Ayiklama Ýþlemi.Queue.NumberInQueue         21.552     (Corr)     .00000     50.000     37.000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Atik Dökme Araci.NumberIn                   805.00    
+Atik Dökme Araci.NumberOut                  759.00    
+Indirme Görevlisi.NumberSeized              803.00    
+Indirme Görevlisi.ScheduledUtilization      .66956    
+Ayýklama Görevlisi.NumberSeized             842.00    
+Ayýklama Görevlisi.ScheduledUtilization     .98917    
+System.NumberOut                            759.00    
+
+Beginning replication 10 of 12
+
+                                      ARENA Simulation Results
+                                      lenovo - License: STUDENT
+
+                                  Summary for Replication 10 of 12
+
+Project: Unnamed Project                                             Run execution date : 9/25/2020
+Analyst: lenovo                                                      Model revision date: 9/25/2020
+
+Replication ended at time      : 2100.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Atik Dökme Araci.VATime                     4.2863     .24252     1.5263     20.612        744    
+Atik Dökme Araci.NVATime                    .00000     .00000     .00000     .00000        744    
+Atik Dökme Araci.WaitTime                   39.288     (Corr)     .00000     172.94        744    
+Atik Dökme Araci.TranTime                   .00000     .00000     .00000     .00000        744    
+Atik Dökme Araci.OtherTime                  .00000     .00000     .00000     .00000        744    
+Atik Dökme Araci.TotalTime                  43.574     (Corr)     1.8424     188.61        744    
+Tehlikeli Atik Indirme.Queue.WaitingTime    5.5315     1.8207     .00000     34.739        421    
+Elektronik Alet Parcalama.Queue.WaitingTim  28.949     (Insuf)    .00000     87.354         66    
+Tehlikesiz Atik Indirme.Queue.WaitingTime   4.9309     1.6193     .00000     30.596        355    
+Ayiklama Ýþlemi.Queue.WaitingTime           31.772     (Corr)     .00000     94.733        749    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Atik Dökme Araci.WIP                        16.396     (Corr)     .00000     49.000     32.000    
+Indirme Görevlisi.NumberBusy                .62566     (Insuf)    .00000     1.0000     .00000    
+Indirme Görevlisi.NumberScheduled           1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Indirme Görevlisi.Utilization               .62566     (Insuf)    .00000     1.0000     .00000    
+Ayýklama Görevlisi.NumberBusy               .92891     (Insuf)    .00000     1.0000     1.0000    
+Ayýklama Görevlisi.NumberScheduled          1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Ayýklama Görevlisi.Utilization              .92891     (Insuf)    .00000     1.0000     1.0000    
+Tehlikeli Atik Indirme.Queue.NumberInQueue  1.1089     .43465     .00000     11.000     .00000    
+Elektronik Alet Parcalama.Queue.NumberInQu  .99925     (Insuf)    .00000     5.0000     4.0000    
+Tehlikesiz Atik Indirme.Queue.NumberInQueu  .83357     .32634     .00000     9.0000     .00000    
+Ayiklama Ýþlemi.Queue.NumberInQueue         11.900     (Corr)     .00000     45.000     27.000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Atik Dökme Araci.NumberIn                   776.00    
+Atik Dökme Araci.NumberOut                  744.00    
+Indirme Görevlisi.NumberSeized              776.00    
+Indirme Görevlisi.ScheduledUtilization      .62566    
+Ayýklama Görevlisi.NumberSeized             815.00    
+Ayýklama Görevlisi.ScheduledUtilization     .92891    
+System.NumberOut                            744.00    
+
+Beginning replication 11 of 12
+
+                                      ARENA Simulation Results
+                                      lenovo - License: STUDENT
+
+                                  Summary for Replication 11 of 12
+
+Project: Unnamed Project                                             Run execution date : 9/25/2020
+Analyst: lenovo                                                      Model revision date: 9/25/2020
+
+Replication ended at time      : 2100.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Atik Dökme Araci.VATime                     4.3284     .23659     1.5518     20.122        787    
+Atik Dökme Araci.NVATime                    .00000     .00000     .00000     .00000        787    
+Atik Dökme Araci.WaitTime                   29.951     (Corr)     .00000     180.70        787    
+Atik Dökme Araci.TranTime                   .00000     .00000     .00000     .00000        787    
+Atik Dökme Araci.OtherTime                  .00000     .00000     .00000     .00000        787    
+Atik Dökme Araci.TotalTime                  34.279     (Corr)     2.3476     196.86        787    
+Tehlikeli Atik Indirme.Queue.WaitingTime    5.1312     1.6446     .00000     29.978        399    
+Elektronik Alet Parcalama.Queue.WaitingTim  21.342     (Insuf)    .00000     101.84         69    
+Tehlikesiz Atik Indirme.Queue.WaitingTime   5.0329     1.2885     .00000     27.066        405    
+Ayiklama Ýþlemi.Queue.WaitingTime           23.084     (Corr)     .00000     114.45        789    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Atik Dökme Araci.WIP                        13.142     (Corr)     .00000     43.000     18.000    
+Indirme Görevlisi.NumberBusy                .67386     (Insuf)    .00000     1.0000     1.0000    
+Indirme Görevlisi.NumberScheduled           1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Indirme Görevlisi.Utilization               .67386     (Insuf)    .00000     1.0000     1.0000    
+Ayýklama Görevlisi.NumberBusy               .96264     (Insuf)    .00000     1.0000     1.0000    
+Ayýklama Görevlisi.NumberScheduled          1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Ayýklama Görevlisi.Utilization              .96264     (Insuf)    .00000     1.0000     1.0000    
+Tehlikeli Atik Indirme.Queue.NumberInQueue  .97494     .35644     .00000     9.0000     .00000    
+Elektronik Alet Parcalama.Queue.NumberInQu  .72251     (Insuf)    .00000     5.0000     1.0000    
+Tehlikesiz Atik Indirme.Queue.NumberInQueu  .97170     .30602     .00000     8.0000     1.0000    
+Ayiklama Ýþlemi.Queue.NumberInQueue         8.8366     (Corr)     .00000     34.000     14.000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Atik Dökme Araci.NumberIn                   805.00    
+Atik Dökme Araci.NumberOut                  787.00    
+Indirme Görevlisi.NumberSeized              804.00    
+Indirme Görevlisi.ScheduledUtilization      .67386    
+Ayýklama Görevlisi.NumberSeized             858.00    
+Ayýklama Görevlisi.ScheduledUtilization     .96264    
+System.NumberOut                            787.00    
+
+Beginning replication 12 of 12
+
+                                      ARENA Simulation Results
+                                      lenovo - License: STUDENT
+
+                                  Summary for Replication 12 of 12
+
+Project: Unnamed Project                                             Run execution date : 9/25/2020
+Analyst: lenovo                                                      Model revision date: 9/25/2020
+
+Replication ended at time      : 2100.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Atik Dökme Araci.VATime                     4.4873     .27853     1.5760     20.180        747    
+Atik Dökme Araci.NVATime                    .00000     .00000     .00000     .00000        747    
+Atik Dökme Araci.WaitTime                   94.159     (Corr)     .00000     310.90        747    
+Atik Dökme Araci.TranTime                   .00000     .00000     .00000     .00000        747    
+Atik Dökme Araci.OtherTime                  .00000     .00000     .00000     .00000        747    
+Atik Dökme Araci.TotalTime                  98.646     (Corr)     1.9626     324.56        747    
+Tehlikeli Atik Indirme.Queue.WaitingTime    6.0259     1.9949     .00000     25.793        369    
+Elektronik Alet Parcalama.Queue.WaitingTim  78.626     (Insuf)    .00000     163.08         78    
+Tehlikesiz Atik Indirme.Queue.WaitingTime   6.3393     1.6025     .00000     26.296        453    
+Ayiklama Ýþlemi.Queue.WaitingTime           80.780     (Corr)     .00000     167.46        757    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Atik Dökme Araci.WIP                        38.902     (Corr)     .00000     78.000     78.000    
+Indirme Görevlisi.NumberBusy                .70948     (Insuf)    .00000     1.0000     1.0000    
+Indirme Görevlisi.NumberScheduled           1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Indirme Görevlisi.Utilization               .70948     (Insuf)    .00000     1.0000     1.0000    
+Ayýklama Görevlisi.NumberBusy               .97300     (Insuf)    .00000     1.0000     1.0000    
+Ayýklama Görevlisi.NumberScheduled          1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Ayýklama Görevlisi.Utilization              .97300     (Insuf)    .00000     1.0000     1.0000    
+Tehlikeli Atik Indirme.Queue.NumberInQueue  1.0677     .45357     .00000     10.000     2.0000    
+Elektronik Alet Parcalama.Queue.NumberInQu  3.2361     (Insuf)    .00000     10.000     9.0000    
+Tehlikesiz Atik Indirme.Queue.NumberInQueu  1.3717     .46631     .00000     10.000     1.0000    
+Ayiklama Ýþlemi.Queue.NumberInQueue         31.544     (Corr)     .00000     67.000     64.000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Atik Dökme Araci.NumberIn                   825.00    
+Atik Dökme Araci.NumberOut                  747.00    
+Indirme Görevlisi.NumberSeized              822.00    
+Indirme Görevlisi.ScheduledUtilization      .70948    
+Ayýklama Görevlisi.NumberSeized             835.00    
+Ayýklama Görevlisi.ScheduledUtilization     .97300    
+System.NumberOut                            747.00    
+
+
+                                      ARENA Simulation Results
+                                      lenovo - License: STUDENT
+
+                                 Output Summary for 12 Replications
+
+Project: Unnamed Project                                             Run execution date : 9/25/2020
+Analyst: lenovo                                                      Model revision date: 9/25/2020
+
+
+                                             OUTPUTS
+
+Identifier                                 Average    Half-width Minimum    Maximum # Replications
+___________________________________________________________________________________________________
+
+Atik Dökme Araci.NumberIn                   810.83     27.591     737.00     897.00     12
+Atik Dökme Araci.NumberOut                  762.83     13.792     728.00     792.00     12
+Indirme Görevlisi.NumberSeized              809.25     27.083     736.00     897.00     12
+Indirme Görevlisi.ScheduledUtilization      .67150     .02362     .61345     .73147     12
+Ayýklama Görevlisi.NumberSeized             840.75     15.608     794.00     880.00     12
+Ayýklama Görevlisi.ScheduledUtilization     .96446     .02802     .86375     .99895     12
+System.NumberOut                            762.83     13.792     728.00     792.00     12
+
+Simulation run time: 0.22 minutes.
+Simulation run complete.
